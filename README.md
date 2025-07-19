@@ -10,7 +10,13 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+👩‍💻 About Me
+
+    💻 I'm a Software Engineer& Flutter developer
+    👀 I’m passionate about learning programming
+    🌱 Currently exploring mobile app development using Flutter
+    ⚡ Fun fact: I’m always curious and stay up to date with new technologies
+
 
 ###
 
